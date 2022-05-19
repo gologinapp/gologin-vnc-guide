@@ -9,7 +9,7 @@ now we have downloaded and unpacked orbita, for example here: `/root/orbita-brow
 
 ## 3. VNC server setup
 ```bash 
-apt install xfce4 xfce4-goodies`
+apt install xfce4 xfce4-goodies
 apt install tigervnc-standalone-server
 ```
 
